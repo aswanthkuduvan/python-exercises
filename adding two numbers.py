@@ -1,3 +1,5 @@
+# This is the code for adding two numbers in different methods
+
 # using input from user
 
 # num1 = int(input("enter first number: "))
